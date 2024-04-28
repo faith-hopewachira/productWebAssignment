@@ -1,0 +1,502 @@
+
+.picture{
+    position: absolute;
+    height: 69%;
+    width: 33%;
+    top: auto;
+    left: auto;
+}
+#Form{
+    /* border-radius: solid 9px; */
+    margin: 0 auto;
+    width: 50%;
+    padding: 24px;
+    
+}
+.input{
+    padding: 14px 12px;
+    border-radius: 5px;
+    border: solid 1px;
+    width: 80%;
+}
+.input1{
+    padding: 14px 12px;
+    border-radius: 3px;
+    border: solid 1px;
+    width: 40%;
+}
+button{
+    background-color: #030804;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 5px;
+    margin: 7px 0;
+    width: 100%;
+    font-size: 18px;
+}
+.center {
+    width: 25px;
+    height: 25px;
+    margin-left: 40%;
+}
+
+.center2{
+    width: 25px;
+    height: 20px;
+    margin-left: 6%;
+    margin-top: 4%;
+
+}
+
+#table{
+    border: solid 1px;
+    margin: 0 auto;
+    width: 50%;
+    padding: 24px;
+    
+}
+
+
+/* #Form{
+    border: solid 1px;
+    margin: 0 auto;
+    width: 30%;
+    padding: 24px;
+    
+} */
+
+.input{
+    padding: 14px 12px;
+    border-radius: 5px;
+    border: solid 1px;
+    width: 80%;
+}
+button{
+    background-color: #030804;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 5px;
+    margin: 7px 0;
+    width: 100%;
+    font-size: 18px;
+}
+.center {
+    width: 20px;
+    height: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+#Form{
+    /* border: solid 1px; */
+    margin: 0 auto;
+    width: 30%;
+    padding: 24px;
+    
+}
+
+.input{
+    padding: 14px 12px;
+    border-radius: 5px;
+    border: solid 1px;
+    width: 80%;
+    color: purple;
+}
+button{
+    background-color: #030804;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 5px;
+    margin: 7px 0;
+    width: 100%;
+    font-size: 18px;
+}
+.center {
+    width: 25px;
+    height: 25px;
+    margin-left: 40%;
+}
+
+.center2{
+    width: 25px;
+    height: 20px;
+    margin-left: 6%;
+    margin-top: 4%;
+
+}
+#text{
+    display: flex;
+    justify-items: right;
+    padding: 5px;
+
+}
+
+.btn {
+    background-color: white;
+    border: solid 1px;
+    color: black;
+    padding: 12px 16px;
+    font-size: 16px;
+}
+.form{
+    /* border: solid 1px; */
+    margin: 0 auto;
+    width: 30%;
+    padding: 24px;
+    
+}
+.form1{
+    /* border: solid 1px; */
+    margin: 0 auto;
+    width: 30%;
+    padding: 24px;
+    border: solid 2px;
+    border-radius: 20px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: white;
+
+}
+
+.input{
+    padding: 14px 12px;
+    border-radius: 5px;
+    border: solid 1px;
+    width: 80%;
+}
+button{
+    background-color: #030804;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 5px;
+    margin: 7px 0;
+    width: 100%;
+    font-size: 18px;
+}
+.center {
+    width: 20px;
+    height: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.formImage{
+    display: flex;
+    flex-direction: row;
+    background-color: #FFD1DC;
+    border: solid 2px;
+    border-radius: 50px;
+    width: 70%;
+    margin-left: 13%;
+    margin-top: 2%;
+
+}
+.signImg{
+    width: 700px;
+    height: 600px;
+    margin-top: 30%;
+    margin-left: 10%;
+}
+.wholeForm{
+    border: solid 2px;
+    border-radius: 60px;
+    padding: 20px;
+    background-color: white;
+    width: 500px;
+}
+.signImg1{
+    width: 600px;
+    height: 600px;
+}
+.myForm2{
+    border: solid 2px;
+    border-radius: 20px;
+}
+.Form{
+
+}
+
+h1{
+    font-size: large;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+input{
+    font-size: large;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+label{
+    font-size: large;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+p{
+    font-size: large;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+button{
+    background-color: lightpink;
+    width: 30%;
+    height: 45px;
+    color: black;
+    margin-right: 20%;
+    margin-left: 35%;
+    border: none;
+}
+
+
+@media only screen and (min-width: 280px) and (max-width: 412px){
+
+.picture{
+    position: absolute;
+    height: 69%;
+    width: 33%;
+    top: auto;
+    left: auto;
+}
+#Form{
+    /* border-radius: solid 9px; */
+    margin: 0 auto;
+    width: 50%;
+    padding: 24px;
+    
+}
+.input{
+    padding: 14px 12px;
+    border-radius: 5px;
+    border: solid 1px;
+    width: 80%;
+}
+.input1{
+    padding: 14px 12px;
+    border-radius: 3px;
+    border: solid 1px;
+    width: 40%;
+}
+button{
+    background-color: #030804;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 5px;
+    margin: 7px 0;
+    width: 100%;
+    font-size: 18px;
+}
+.center {
+    width: 25px;
+    height: 25px;
+    margin-left: 40%;
+}
+
+.center2{
+    width: 25px;
+    height: 20px;
+    margin-left: 6%;
+    margin-top: 4%;
+
+}
+
+#table{
+    border: solid 1px;
+    margin: 0 auto;
+    width: 50%;
+    padding: 24px;
+    
+}
+
+
+/* #Form{
+    border: solid 1px;
+    margin: 0 auto;
+    width: 30%;
+    padding: 24px;
+    
+} */
+
+.input{
+    padding: 14px 12px;
+    border-radius: 5px;
+    border: solid 1px;
+    width: 80%;
+}
+button{
+    background-color: #030804;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 5px;
+    margin: 7px 0;
+    width: 100%;
+    font-size: 18px;
+}
+.center {
+    width: 20px;
+    height: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+#Form{
+    /* border: solid 1px; */
+    margin: 0 auto;
+    width: 30%;
+    padding: 24px;
+    
+}
+
+.input{
+    padding: 14px 12px;
+    border-radius: 5px;
+    border: solid 1px;
+    width: 80%;
+    color: purple;
+}
+button{
+    background-color: #030804;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 5px;
+    margin: 7px 0;
+    width: 100%;
+    font-size: 18px;
+}
+.center {
+    width: 25px;
+    height: 25px;
+    margin-left: 40%;
+}
+
+.center2{
+    width: 25px;
+    height: 20px;
+    margin-left: 6%;
+    margin-top: 4%;
+
+}
+#text{
+    display: flex;
+    justify-items: right;
+    padding: 5px;
+
+}
+
+.btn {
+    background-color: white;
+    border: solid 1px;
+    color: black;
+    padding: 12px 16px;
+    font-size: 16px;
+}
+.form{
+    /* border: solid 1px; */
+    margin: 0 auto;
+    width: 30%;
+    padding: 24px;
+    
+}
+.form1{
+    /* border: solid 1px; */
+    margin: 0 auto;
+    width: 30%;
+    padding: 24px;
+    border: solid 2px;
+    border-radius: 20px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: white;
+
+}
+
+.input{
+    padding: 14px 12px;
+    border-radius: 5px;
+    border: solid 1px;
+    width: 80%;
+}
+button{
+    background-color: #030804;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 5px;
+    margin: 7px 0;
+    width: 100%;
+    font-size: 18px;
+}
+.center {
+    width: 20px;
+    height: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+.formImage{
+    display: flex;
+    flex-direction: row;
+    background-color: #FFD1DC;
+    border: solid 2px;
+    border-radius: 50px;
+    width: 70%;
+    margin-left: 13%;
+    margin-top: 2%;
+
+}
+.signImg{
+    width: 700px;
+    height: 600px;
+    margin-top: 30%;
+    margin-left: 10%;
+}
+.wholeForm{
+    border: solid 2px;
+    border-radius: 60px;
+    padding: 20px;
+    background-color: white;
+    width: 500px;
+}
+.signImg1{
+    width: 600px;
+    height: 600px;
+}
+.myForm2{
+    border: solid 2px;
+    border-radius: 20px;
+}
+.Form{
+
+}
+
+h1{
+    font-size: large;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+input{
+    font-size: large;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+label{
+    font-size: large;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+p{
+    font-size: large;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+button{
+    background-color: lightpink;
+    width: 30%;
+    height: 45px;
+    color: black;
+    margin-right: 20%;
+    margin-left: 35%;
+    border: none;
+}
+
+
+}
